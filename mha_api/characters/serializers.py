@@ -1,3 +1,4 @@
+from drf_spectacular.utils import extend_schema_field
 from rest_framework import serializers
 from .models import Character, CharacterAffiliation, Quirk, Affiliation, Alias
 
@@ -57,6 +58,7 @@ class CharacterSerializer(serializers.ModelSerializer):
     aliases = AliasSerializer(many=True, read_only=True)
     image = serializers.ImageField()
 
+    @extend_schema_field(QuirkSerializer(many=True))
     def get_quirks(self, obj):
         queryset = obj.characterquirk_set.all().order_by("order")
         return QuirkSerializer([cq.quirk for cq in queryset], many=True).data

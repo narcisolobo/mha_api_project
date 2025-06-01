@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Izuku Midoriya",
+    "kanji": "緑谷出久",
+    "url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya",
+    "image": "http://localhost:8000/media/characters/izuku-midoriya_u8fpXbE.png",
+    "quirks": [
+      { "name": "Quirkless" },
+      { "name": "One For All" },
+      { "name": "Gearshift" },
+      { "name": "Fa Jin" },
+      { "name": "Danger Sense" },
+      { "name": "Blackwhip" },
+      { "name": "Smokescreen" },
+      { "name": "Float" }
+    ],
+    "affiliations": [
+      { "name": "Aldera Junior High", "note": "Formerly" },
+      { "name": "U.A. High School", "note": "" }
+    ],
+    "aliases": [{ "name": "Deku" }]
+  },
+  {
+    "id": 148,
+    "name": "Katsuki Bakugo",
+    "kanji": "爆豪勝己",
+    "url": "https://myheroacademia.fandom.com/wiki/Dynamight",
+    "image": "http://localhost:8000/media/characters/katsuki-bakugo_U02fniw.png",
+    "quirks": [
+      {
+        "name": "Explosion"
+      },
+      {
+        "name": "One For All"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Aldera Junior High",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "Endeavor Agency",
+        "note": "Formerly"
+      },
+      {
+        "name": "Genius Office",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Kacchan"
+      },
+      {
+        "name": "Katchan"
+      },
+      {
+        "name": "Explosive Hero: Great Explosion Murder God Dynamight"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Shoto Todoroki",
+    "kanji": "轟焦凍",
+    "url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki",
+    "image": "http://localhost:8000/media/characters/shoto-todoroki_PPR4jCS.png",
+    "quirks": [{ "name": "Half-Cold Half-Hot" }],
+    "affiliations": [
+      { "name": "Corusan Middle School", "note": "Formerly" },
+      { "name": "U.A. High School", "note": "Formerly" }
+    ],
+    "aliases": [{ "name": "AirCon Hero: Shoto" }]
+  }
+]

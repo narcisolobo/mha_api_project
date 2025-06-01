@@ -3,6 +3,15 @@ Scraper for character data from the MHA wiki. Extracts key info such as name, ka
 aliases, quirks, affiliations, and downloads images. Outputs to a JSON file.
 """
 
+import os
+import random
+import time
+from json import dump
+from pprint import pprint
+
+import requests
+from bs4 import BeautifulSoup
+from slugify import slugify
 from utils import (
     dedupe_affiliations,
     download_image,
@@ -10,15 +19,6 @@ from utils import (
     extract_quirks,
     parse_affiliations,
 )
-from bs4 import BeautifulSoup
-import requests
-from json import dump
-from pprint import pprint
-from slugify import slugify
-import os
-from character_urls import character_urls
-import time
-import random
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, ".."))
@@ -93,7 +93,10 @@ def scrape_character(url):
 
 
 if __name__ == "__main__":
-    urls = character_urls[208:]
+    urls = [
+        "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya",
+        "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki",
+    ]
 
     all_characters = []
     for url in urls:
