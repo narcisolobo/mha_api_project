@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: mha-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn mha_api.wsgi:application
+    envVars:
+      - key: DJANGO_SETTINGS_MODULE
+        value: mha_api.settings
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: mha-api-db
+          property: connectionString
+
+databases:
+  - name: mha-api-db
+    plan: free
+    databaseName: mha_api
+    user: mha_user
