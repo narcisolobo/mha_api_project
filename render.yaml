@@ -5,6 +5,7 @@ services:
     plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn mha_api.wsgi:application
+    rootDir: mha_api  # ✅ Add this
     envVars:
       - key: DJANGO_SETTINGS_MODULE
         value: mha_api.settings
