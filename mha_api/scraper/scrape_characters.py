@@ -93,10 +93,7 @@ def scrape_character(url):
 
 
 if __name__ == "__main__":
-    urls = [
-        "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya",
-        "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki",
-    ]
+    urls = []
 
     all_characters = []
     for url in urls:

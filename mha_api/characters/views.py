@@ -1,12 +1,22 @@
+from django.db.models import Q
+from drf_spectacular.utils import OpenApiExample, extend_schema, OpenApiParameter
 from rest_framework import filters, generics
+
 from .models import Character
 from .serializers import CharacterSerializer
-from drf_spectacular.utils import extend_schema, OpenApiExample
 
 
 @extend_schema(
     summary="List all characters",
-    description="Retrieve a list of My Hero Academia characters. You can filter results by name using the `search` query parameter, e.g. `?search=Midoriya`.",
+    description="Retrieve a list of My Hero Academia characters. You can filter results by name or alias using the `search` query parameter, e.g. `?search=Midoriya`.",
+    parameters=[
+        OpenApiParameter(
+            name="search",
+            description="Filter by name or alias",
+            required=False,
+            type=str,
+        ),
+    ],
     examples=[
         OpenApiExample(
             name="Character List Example",
@@ -78,10 +88,18 @@ class CharacterList(generics.ListAPIView):
     Supports searching by character name.
     """
 
-    queryset = Character.objects.all()
+    queryset = Character.objects.all().order_by("id")
     serializer_class = CharacterSerializer
     filter_backends = [filters.SearchFilter]
-    search_fields = ["name"]
+
+    def get_queryset(self):
+        queryset = super().get_queryset()
+        search = self.request.query_params.get("search")
+        if search:
+            queryset = queryset.filter(
+                Q(name__icontains=search) | Q(aliases__name__icontains=search)
+            ).distinct()
+        return queryset
 
 
 @extend_schema(

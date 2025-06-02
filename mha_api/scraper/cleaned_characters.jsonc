@@ -1,0 +1,3192 @@
+[
+  // Class 1-A
+  {
+    "name": "Izuku Midoriya",
+    "kanji": "緑谷出久",
+    "url": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya",
+    "image": "characters/izuku-midoriya_u8fpXbE.png",
+    "quirks": [
+      {
+        "name": "Quirkless"
+      },
+      {
+        "name": "One For All"
+      },
+      {
+        "name": "Gearshift"
+      },
+      {
+        "name": "Fa Jin"
+      },
+      {
+        "name": "Danger Sense"
+      },
+      {
+        "name": "Blackwhip"
+      },
+      {
+        "name": "Smokescreen"
+      },
+      {
+        "name": "Float"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Aldera Junior High",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Deku"
+      }
+    ]
+  },
+  {
+    "name": "Shoto Todoroki",
+    "kanji": "轟焦凍",
+    "url": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki",
+    "image": "characters/shoto-todoroki_PPR4jCS.png",
+    "quirks": [
+      {
+        "name": "Half-Cold Half-Hot"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Corusan Middle School",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "AirCon Hero: Shoto"
+      }
+    ]
+  },
+  {
+    "name": "Katsuki Bakugo",
+    "kanji": "爆豪勝己",
+    "url": "https://myheroacademia.fandom.com/wiki/Dynamight",
+    "image": "characters/katsuki-bakugo_U02fniw.png",
+    "quirks": [
+      {
+        "name": "Explosion"
+      },
+      {
+        "name": "One For All"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Aldera Junior High",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "Endeavor Agency",
+        "note": "Formerly"
+      },
+      {
+        "name": "Genius Office",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Kacchan"
+      },
+      {
+        "name": "Katchan"
+      },
+      {
+        "name": "Explosive Hero: Great Explosion Murder God Dynamight"
+      }
+    ]
+  },
+  {
+    "name": "Ochaco Uraraka",
+    "kanji": "麗日お茶子",
+    "url": "https://myheroacademia.fandom.com/wiki/Ochaco_Uraraka",
+    "image": "characters/ochaco-uraraka_D0VF1n9.png",
+    "quirks": [
+      {
+        "name": "Zero Gravity"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Rozaryu Middle School",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Zero Gravity Hero: Uravity"
+      }
+    ]
+  },
+  {
+    "name": "Tsuyu Asui",
+    "kanji": "蛙吹梅雨",
+    "url": "https://myheroacademia.fandom.com/wiki/Tsuyu_Asui",
+    "image": "characters/tsuyu-asui_gzCwdue.png",
+    "quirks": [
+      {
+        "name": "Frog"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Salty Banks Middle School",
+        "note": ""
+      },
+      {
+        "name": "(Previously)",
+        "note": ""
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "Oki Mariner Crew",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Rainy Season Hero: Froppy"
+      }
+    ]
+  },
+  {
+    "name": "Fumikage Tokoyami",
+    "kanji": "常闇踏陰",
+    "url": "https://myheroacademia.fandom.com/wiki/Fumikage_Tokoyami",
+    "image": "characters/fumikage-tokoyami_sKjyGiG.png",
+    "quirks": [
+      {
+        "name": "Dark Shadow"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Jet-Black Hero: Tsukuyomi"
+      }
+    ]
+  },
+  {
+    "name": "Tenya Ida",
+    "kanji": "飯田天哉",
+    "url": "https://myheroacademia.fandom.com/wiki/Tenya_Ida",
+    "image": "characters/tenya-ida_SvjoF4B.png",
+    "quirks": [
+      {
+        "name": "Engine"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Somei Private Academy",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "Team Idaten",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Turbo Hero: Ingenium"
+      },
+      {
+        "name": "(Hero name)"
+      },
+      {
+        "name": "Tenya"
+      },
+      {
+        "name": "Ten'ya"
+      },
+      {
+        "name": "(Temporary hero name)"
+      }
+    ]
+  },
+  {
+    "name": "Denki Kaminari",
+    "kanji": "上鳴電気",
+    "url": "https://myheroacademia.fandom.com/wiki/Denki_Kaminari",
+    "image": "characters/denki-kaminari_oK2mgve.png",
+    "quirks": [
+      {
+        "name": "Electrification"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Stun Gun Hero: Chargebolt"
+      }
+    ]
+  },
+  {
+    "name": "Momo Yaoyorozu",
+    "kanji": "八百万百",
+    "url": "https://myheroacademia.fandom.com/wiki/Momo_Yaoyorozu",
+    "image": "characters/momo-yaoyorozu_kw6gTuX.png",
+    "quirks": [
+      {
+        "name": "Creation"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Everything Hero: Creati"
+      }
+    ]
+  },
+  {
+    "name": "Mashirao Ojiro",
+    "kanji": "尾白猿夫",
+    "url": "https://myheroacademia.fandom.com/wiki/Mashirao_Ojiro",
+    "image": "characters/mashirao-ojiro_jmlRzEh.png",
+    "quirks": [
+      {
+        "name": "Tail"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Mygeto Junior High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Martial Arts Hero: Tailman"
+      }
+    ]
+  },
+  {
+    "name": "Eijiro Kirishima",
+    "kanji": "切島鋭児郎",
+    "url": "https://myheroacademia.fandom.com/wiki/Eijiro_Kirishima",
+    "image": "characters/eijiro-kirishima_LchRVrt.png",
+    "quirks": [
+      {
+        "name": "Hardening"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Mustafa Private Middle School",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Sturdy Hero: Red Riot"
+      }
+    ]
+  },
+  {
+    "name": "Kyoka Jiro",
+    "kanji": "耳郎響香",
+    "url": "https://myheroacademia.fandom.com/wiki/Kyoka_Jiro",
+    "image": "characters/kyoka-jiro_E5RtDtt.png",
+    "quirks": [
+      {
+        "name": "Earphone Jack"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Hearing Hero: Earphone Jack"
+      }
+    ]
+  },
+  {
+    "name": "Minoru Mineta",
+    "kanji": "峰田実",
+    "url": "https://myheroacademia.fandom.com/wiki/Minoru_Mineta",
+    "image": "characters/minoru-mineta_EeMea3v.png",
+    "quirks": [
+      {
+        "name": "Pop Off"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "Mt. Agency",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Fresh-Picked Hero: Grape Juice"
+      }
+    ]
+  },
+  {
+    "name": "Toru Hagakure",
+    "kanji": "葉隠透",
+    "url": "https://myheroacademia.fandom.com/wiki/Toru_Hagakure",
+    "image": "characters/toru-hagakure.png",
+    "quirks": [
+      {
+        "name": "Invisibility"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": ["Stealth Hero: Invisible Girl"]
+  },
+  {
+    "name": "Mina Ashido",
+    "kanji": "芦戸三奈",
+    "url": "https://myheroacademia.fandom.com/wiki/Mina_Ashido",
+    "image": "characters/mina-ashido_NMWjpGV.png",
+    "quirks": [
+      {
+        "name": "Acid"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Mustafa Private Middle School",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Ridley Hero: Pinky"
+      }
+    ]
+  },
+  {
+    "name": "Hanta Sero",
+    "kanji": "瀬呂範太",
+    "url": "https://myheroacademia.fandom.com/wiki/Hanta_Sero",
+    "image": "characters/hanta-sero_5R92Mic.png",
+    "quirks": [
+      {
+        "name": "Tape"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Taping Hero: Cellophane"
+      }
+    ]
+  },
+  {
+    "name": "Mezo Shoji",
+    "kanji": "障子目蔵",
+    "url": "https://myheroacademia.fandom.com/wiki/Mezo_Shoji",
+    "image": "characters/mezo-shoji_Y1RUigm.png",
+    "quirks": [
+      {
+        "name": "Dupli-Arms"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Tentacle Hero: Tentacole"
+      }
+    ]
+  },
+  {
+    "name": "Yuga Aoyama",
+    "kanji": "青山優雅",
+    "url": "https://myheroacademia.fandom.com/wiki/Yuga_Aoyama",
+    "image": "characters/yuga-aoyama_2Px1d20.png",
+    "quirks": [
+      {
+        "name": "Quirkless"
+      },
+      {
+        "name": "Navel Laser"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "League of Villains",
+        "note": ""
+      },
+      {
+        "name": "All For One",
+        "note": ""
+      },
+      {
+        "name": "'s mole)",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Shining Hero: Can't Stop Twinkling"
+      },
+      {
+        "name": "Can't"
+      },
+      {
+        "name": "Twinkling"
+      }
+    ]
+  },
+  {
+    "name": "Koji Koda",
+    "kanji": "口田甲司",
+    "url": "https://myheroacademia.fandom.com/wiki/Koji_Koda",
+    "image": "characters/koji-koda_6fVJCLy.png",
+    "quirks": [
+      {
+        "name": "Anivoice"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Petting Hero: Anima"
+      }
+    ]
+  },
+  {
+    "name": "Rikido Sato",
+    "kanji": "砂藤力道",
+    "url": "https://myheroacademia.fandom.com/wiki/Rikido_Sato",
+    "image": "characters/rikido-sato_J0apk0n.png",
+    "quirks": [
+      {
+        "name": "Sugar Rush"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Sweets Hero: Sugarman"
+      }
+    ]
+  },
+  // Class 1-B
+  {
+    "name": "Yosetsu Awase",
+    "kanji": "泡瀬洋雪",
+    "url": "https://myheroacademia.fandom.com/wiki/Yosetsu_Awase",
+    "image": "characters/yosetsu-awase_O2dNWeT.png",
+    "quirks": [
+      {
+        "name": "Weld"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Welder"
+      }
+    ]
+  },
+  {
+    "name": "Sen Kaibara",
+    "kanji": "回原旋",
+    "url": "https://myheroacademia.fandom.com/wiki/Sen_Kaibara",
+    "image": "characters/sen-kaibara_UBY97tx.png",
+    "quirks": [
+      {
+        "name": "Gyrate"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Spiral"
+      },
+      {
+        "name": "Supairaru"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Togaru_Kamakiri",
+    "name": "Togaru Kamakiri",
+    "kanji": "鎌切尖",
+    "image": "characters/togaru-kamakiri.png",
+    "aliases": ["Jack Mantis", "Jakku Mantisu"],
+    "quirks": [
+      {
+        "name": "Razor Sharp"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School"
+      }
+    ]
+  },
+  {
+    "name": "Shihai Kuroiro",
+    "kanji": "黒色支配",
+    "url": "https://myheroacademia.fandom.com/wiki/Shihai_Kuroiro",
+    "image": "characters/shihai-kuroiro_fUpm2k3.png",
+    "quirks": [
+      {
+        "name": "Black"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Scheming Hero: Vantablack"
+      }
+    ]
+  },
+  {
+    "name": "Itsuka Kendo",
+    "kanji": "拳藤一佳",
+    "url": "https://myheroacademia.fandom.com/wiki/Itsuka_Kendo",
+    "image": "characters/itsuka-kendo_y90dHcD.png",
+    "quirks": [
+      {
+        "name": "Big Fist"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Battle Fist"
+      },
+      {
+        "name": "Batoru Fisuto"
+      }
+    ]
+  },
+  {
+    "name": "Yui Kodai",
+    "kanji": "小大唯",
+    "url": "https://myheroacademia.fandom.com/wiki/Yui_Kodai",
+    "image": "characters/yui-kodai_IdOWZ1W.png",
+    "quirks": [
+      {
+        "name": "Size"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Kinoko Komori",
+    "kanji": "小森希乃子",
+    "url": "https://myheroacademia.fandom.com/wiki/Kinoko_Komori",
+    "image": "characters/kinoko-komori_B0Dz0c3.png",
+    "quirks": [
+      {
+        "name": "Mushroom"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Shemage"
+      }
+    ]
+  },
+  {
+    "name": "Ibara Shiozaki",
+    "kanji": "塩崎茨",
+    "url": "https://myheroacademia.fandom.com/wiki/Ibara_Shiozaki",
+    "image": "characters/ibara-shiozaki_kOIkxe4.png",
+    "quirks": [
+      {
+        "name": "Vines"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Maria"
+      },
+      {
+        "name": "(Formerly)"
+      }
+    ]
+  },
+  {
+    "name": "Jurota Shishida",
+    "kanji": "宍田獣郎太",
+    "url": "https://myheroacademia.fandom.com/wiki/Gevaudan",
+    "image": "characters/jurota-shishida_XNdlRen.png",
+    "quirks": [
+      {
+        "name": "Beast"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Gevaudan"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Nirengeki_Shoda",
+    "name": "Nirengeki Shoda",
+    "kanji": "庄田二連撃",
+    "image": "characters/nirengeki-shoda.png",
+    "aliases": ["Mines", "Mainzu"],
+    "quirks": [
+      {
+        "name": "Twin Impact"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School"
+      }
+    ]
+  },
+  {
+    "name": "Pony Tsunotori",
+    "kanji": "角取ポニー",
+    "url": "https://myheroacademia.fandom.com/wiki/Pony_Tsunotori",
+    "image": "characters/pony-tsunotori_t6m7SkF.png",
+    "quirks": [
+      {
+        "name": "Horn Cannon"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Rocketti"
+      },
+      {
+        "name": "Roketti"
+      }
+    ]
+  },
+  {
+    "name": "Kosei Tsuburaba",
+    "kanji": "円場硬成",
+    "url": "https://myheroacademia.fandom.com/wiki/Kosei_Tsuburaba",
+    "image": "characters/kosei-tsuburaba_73z0yzk.png",
+    "quirks": [
+      {
+        "name": "Solid Air"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Tsuburaba"
+      }
+    ]
+  },
+  {
+    "name": "Tetsutetsu Tetsutetsu",
+    "kanji": "鉄哲徹鐵",
+    "url": "https://myheroacademia.fandom.com/wiki/Tetsutetsu_Tetsutetsu",
+    "image": "characters/tetsutetsu-tetsutetsu_SmW96ei.png",
+    "quirks": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Real Steel"
+      }
+    ]
+  },
+  {
+    "name": "Setsuna Tokage",
+    "kanji": "取蔭切奈",
+    "url": "https://myheroacademia.fandom.com/wiki/Setsuna_Tokage",
+    "image": "characters/setsuna-tokage_vdne2ch.png",
+    "quirks": [
+      {
+        "name": "Lizard Tail Splitter"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Lizardy"
+      }
+    ]
+  },
+  {
+    "name": "Manga Fukidashi",
+    "kanji": "吹出漫我",
+    "url": "https://myheroacademia.fandom.com/wiki/Manga_Fukidashi",
+    "image": "characters/manga-fukidashi_vvBFvJn.png",
+    "quirks": [
+      {
+        "name": "Comic"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Comicman"
+      },
+      {
+        "name": "Komikkuman"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Juzo_Honenuki",
+    "name": "Juzo Honenuki",
+    "kanji": "骨抜柔造",
+    "image": "characters/juzo-honenuki.png",
+    "aliases": ["Mudman", "Maddoman"],
+    "quirks": [
+      {
+        "name": "Softening"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School"
+      }
+    ]
+  },
+  {
+    "name": "Kojiro Bondo",
+    "kanji": "凡戸固次郎",
+    "url": "https://myheroacademia.fandom.com/wiki/Kojiro_Bondo",
+    "image": "characters/kojiro-bondo_UTVIM3Z.png",
+    "quirks": [
+      {
+        "name": "Cemedine"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Plamo"
+      },
+      {
+        "name": "Puramo"
+      }
+    ]
+  },
+  {
+    "name": "Neito Monoma",
+    "kanji": "物間寧人",
+    "url": "https://myheroacademia.fandom.com/wiki/Neito_Monoma",
+    "image": "characters/neito-monoma_PEqY75L.png",
+    "quirks": [
+      {
+        "name": "Copy"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Phantom Thief"
+      }
+    ]
+  },
+  {
+    "name": "Reiko Yanagi",
+    "kanji": "柳レイ子",
+    "url": "https://myheroacademia.fandom.com/wiki/Emily",
+    "image": "characters/reiko-yanagi_n6tDHL3.png",
+    "quirks": [
+      {
+        "name": "Poltergeist"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Emily"
+      }
+    ]
+  },
+  {
+    "name": "Hiryu Rin",
+    "kanji": "鱗飛竜",
+    "url": "https://myheroacademia.fandom.com/wiki/Dragon_Shroud",
+    "image": "characters/hiryu-rin_ryjBMzu.png",
+    "quirks": [
+      {
+        "name": "Scales"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Long Weizi"
+      }
+    ]
+  },
+  // The Big Three
+  {
+    "name": "Mirio Togata",
+    "kanji": "通形ミリオ",
+    "url": "https://myheroacademia.fandom.com/wiki/Mirio_Togata",
+    "image": "characters/mirio-togata_DhPzFt2.png",
+    "quirks": [
+      {
+        "name": "Permeation"
+      },
+      {
+        "name": "Quirkless"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "The Big 3",
+        "note": "Formerly"
+      },
+      {
+        "name": "Nighteye Agency",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Comedy Hero: Lemillion"
+      }
+    ]
+  },
+  {
+    "name": "Nejire Hado",
+    "kanji": "波動ねじれ",
+    "url": "https://myheroacademia.fandom.com/wiki/Nejire_Hado",
+    "image": "characters/nejire-hado_0ouXrCy.png",
+    "quirks": [
+      {
+        "name": "Wave Motion"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "The Big 3",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Wonder Hero: Nejire Chan"
+      }
+    ]
+  },
+  {
+    "name": "Tamaki Amajiki",
+    "kanji": "天喰環",
+    "url": "https://myheroacademia.fandom.com/wiki/Tamaki_Amajiki",
+    "image": "characters/tamaki-amajiki_EXTkODY.png",
+    "quirks": [
+      {
+        "name": "Manifest"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "The Big 3",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Bizarre Diet Hero: Suneater"
+      }
+    ]
+  },
+  // Eri
+  {
+    "name": "Eri",
+    "kanji": "壊理",
+    "url": "https://myheroacademia.fandom.com/wiki/Eri",
+    "image": "characters/eri_fuF6twL.png",
+    "quirks": [
+      {
+        "name": "Rewind"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": []
+  },
+  // Class 2-A
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Mawata_Fuwa",
+    "name": "Mawata Fuwa",
+    "kanji": "不和真綿",
+    "image": "characters/mawata-fuwa.png",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Unknown Quirk"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School"
+      }
+    ]
+  },
+  // General Education
+  {
+    "name": "Hitoshi Shinso",
+    "kanji": "心操人使",
+    "url": "https://myheroacademia.fandom.com/wiki/Hitoshi_Shinso",
+    "image": "characters/hitoshi-shinso_7izLPbs.png",
+    "quirks": [
+      {
+        "name": "Brainwashing"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Nabu Middle School",
+        "note": "Formerly"
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Hypnosis Hero: Nighthide"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Tsutsutaka_Agoyamato",
+    "name": "Tsutsutaka Agoyamato",
+    "kanji": "顎大和筒隆",
+    "aliases": [],
+    "affiliations": [
+      {
+        "name": "U.A. High School"
+      }
+    ],
+    "image": "characters/tsutsutaka-agoyamato.png"
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Chikuchi_Togeike",
+    "name": "Chikuchi Togeike",
+    "kanji": "棘池築稚",
+    "aliases": [],
+    "affiliations": [
+      {
+        "name": "U.A. High School"
+      }
+    ],
+    "image": "characters/chikuchi-togeike.png"
+  },
+  // Department of Support
+  {
+    "name": "Mei Hatsume",
+    "kanji": "発目明",
+    "url": "https://myheroacademia.fandom.com/wiki/Mei_Hatsume",
+    "image": "characters/mei-hatsume_OBa19EN.png",
+    "quirks": [
+      {
+        "name": "Zoom"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      },
+      {
+        "name": "Lightly Labs (Founder)",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Maina_Furasu",
+    "name": "Maina Furasu",
+    "kanji": "普良巢舞奈",
+    "aliases": [],
+    "affiliations": [
+      {
+        "name": "U.A. High School"
+      }
+    ],
+    "image": "characters/maina-furasu.png"
+  },
+  // UA Teachers
+  {
+    "name": "Shota Aizawa",
+    "kanji": "相澤消太",
+    "url": "https://myheroacademia.fandom.com/wiki/Eraser_Head",
+    "image": "characters/shota-aizawa_E9LtDDT.png",
+    "quirks": [
+      {
+        "name": "Erasure"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Erasure Hero: Eraser Head"
+      }
+    ]
+  },
+  {
+    "name": "Hizashi Yamada",
+    "kanji": "山田ひざし",
+    "url": "https://myheroacademia.fandom.com/wiki/Hizashi_Yamada",
+    "image": "characters/hizashi-yamada_zTtGfN7.png",
+    "quirks": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Voice Hero: Present Mic"
+      },
+      {
+        "name": "Purezento Maiku"
+      }
+    ]
+  },
+  {
+    "name": "Toshinori Yagi",
+    "kanji": "八木俊典",
+    "url": "https://myheroacademia.fandom.com/wiki/Toshinori_Yagi",
+    "image": "characters/toshinori-yagi_f1J6VVp.png",
+    "quirks": [
+      {
+        "name": "Quirkless"
+      },
+      {
+        "name": "One For All"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "All Might"
+      }
+    ]
+  },
+  {
+    "name": "Ken Ishiyama",
+    "kanji": "石山堅",
+    "url": "https://myheroacademia.fandom.com/wiki/Ken_Ishiyama",
+    "image": "characters/ken-ishiyama_T4grLOr.png",
+    "quirks": [
+      {
+        "name": "Cement"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Cementoss"
+      },
+      {
+        "name": "Sementosu"
+      }
+    ]
+  },
+  {
+    "name": "Ectoplasm",
+    "kanji": "エクトプラズム",
+    "url": "https://myheroacademia.fandom.com/wiki/Ectoplasm",
+    "image": "characters/ectoplasm_Ce1lgGV.png",
+    "quirks": [
+      {
+        "name": "Clones"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nemuri Kayama",
+    "kanji": "香山睡",
+    "url": "https://myheroacademia.fandom.com/wiki/Nemuri_Kayama",
+    "image": "characters/nemuri-kayama_z2ziZSw.png",
+    "quirks": [
+      {
+        "name": "Somnambulist"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "R-Rated Hero: Midnight"
+      }
+    ]
+  },
+  {
+    "name": "Snipe",
+    "kanji": "スナイプ",
+    "url": "https://myheroacademia.fandom.com/wiki/Snipe",
+    "image": "characters/snipe_JsuPiVy.png",
+    "quirks": [
+      {
+        "name": "Homing"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Higari Maijima",
+    "kanji": "埋島干狩",
+    "url": "https://myheroacademia.fandom.com/wiki/Higari_Maijima",
+    "image": "characters/higari-maijima_869Volz.png",
+    "quirks": [
+      {
+        "name": "Iron Claws"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Excavation Hero \"Power Loader\""
+      }
+    ]
+  },
+  {
+    "name": "Sekijiro Kan",
+    "kanji": "管赤慈郎",
+    "url": "https://myheroacademia.fandom.com/wiki/Sekijiro_Kan",
+    "image": "characters/sekijiro-kan_ggawZAm.png",
+    "quirks": [
+      {
+        "name": "Blood Control"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Blood Hero: Vlad King"
+      }
+    ]
+  },
+  {
+    "name": "Sorahiko Torino",
+    "kanji": "酉野空彦",
+    "image": "characters/sorahiko-torino.png",
+    "url": "https://myheroacademia.fandom.com/wiki/Sorahiko_Torino",
+    "quirks": [
+      {
+        "name": "Jet"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": ["Gran Torino", "Guran Torino"]
+  },
+  // UA Staff
+  {
+    "name": "Nezu",
+    "kanji": "根津",
+    "url": "https://myheroacademia.fandom.com/wiki/Nezu",
+    "image": "characters/nezu_aVwHOJ0.png",
+    "quirks": [
+      {
+        "name": "High Specs"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Chiyo Shuzenji",
+    "kanji": "修善寺治与",
+    "url": "https://myheroacademia.fandom.com/wiki/Chiyo_Shuzenji",
+    "image": "characters/chiyo-shuzenji_x05ZgDE.png",
+    "quirks": [
+      {
+        "name": "Heal"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Youthful Heroine: Recovery Girl"
+      }
+    ]
+  },
+  {
+    "name": "Lunch Rush",
+    "kanji": "ランチラッシュ",
+    "url": "https://myheroacademia.fandom.com/wiki/Lunch_Rush",
+    "image": "characters/lunch-rush_sObF08N.png",
+    "quirks": [
+      {
+        "name": "Unknown Quirk"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Cook Hero: Lunch Rush"
+      }
+    ]
+  },
+  {
+    "name": "Anan Kurose",
+    "kanji": "黒瀬亜南",
+    "url": "https://myheroacademia.fandom.com/wiki/Anan_Kurose",
+    "image": "characters/anan-kurose_tUuG3Fm.png",
+    "quirks": [
+      {
+        "name": "Black Hole"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Space Hero: Thirteen"
+      }
+    ]
+  },
+  {
+    "name": "Ryo Inui",
+    "kanji": "犬井猟",
+    "url": "https://myheroacademia.fandom.com/wiki/Ryo_Inui",
+    "image": "characters/ryo-inui_wkQ9AxE.png",
+    "quirks": [
+      {
+        "name": "Dog"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Hound Hero: Hound Dog"
+      }
+    ]
+  },
+  // Alumni
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Bibimi_Kenranzaki",
+    "name": "Bibimi Kenranzaki",
+    "kanji": "絢爛崎美々美",
+    "image": "characters/bibimi-kenranzaki.png",
+    "aliases": [],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Shinya_Kamihara",
+    "name": "Shinya Kamihara",
+    "kanji": "紙原伸也",
+    "image": "characters/shinya-kamihara.png",
+    "aliases": ["Ninja Hero: Edgeshot"],
+    "quirks": [
+      {
+        "name": "Foldabody"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "name": "Enji Todoroki",
+    "kanji": "轟炎司",
+    "url": "https://myheroacademia.fandom.com/wiki/Enji_Todoroki",
+    "image": "characters/enji-todoroki_QqVd0KQ.png",
+    "quirks": [
+      {
+        "name": "Hellflame"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Endeavor Agency",
+        "note": ""
+      },
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Flame Hero: Endeavor"
+      }
+    ]
+  },
+  {
+    "name": "Oboro Shirakumo",
+    "kanji": "白雲朧",
+    "url": "https://myheroacademia.fandom.com/wiki/Oboro_Shirakumo",
+    "image": "characters/oboro-shirakumo_CklRyFe.png",
+    "quirks": [
+      {
+        "name": "Cloud"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Loud Cloud"
+      },
+      {
+        "name": "Raudo Kuraudo"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Yuyu_Haya",
+    "name": "Yuyu Haya",
+    "kanji": "甲矢有弓",
+    "image": "characters/yuyu-haya.png",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Unnamed Electric Arrow Quirk"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "U.A. High School",
+        "note": "Formerly"
+      }
+    ]
+  },
+  // Ketsubutsu Academy High School
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Tatami_Nakagame",
+    "name": "Tatami Nakagame",
+    "kanji": "中瓶畳",
+    "aliases": ["Turtle Neck"],
+    "quirks": [
+      {
+        "name": "Telescopic"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Ketsubutsu Academy High School"
+      }
+    ],
+    "image": "characters/tatami-nakagame.png"
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Shikkui_Makabe",
+    "name": "Shikkui Makabe",
+    "kanji": "真壁漆喰",
+    "aliases": ["Mr. Smith"],
+    "quirks": [
+      {
+        "name": "Stiffening"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Ketsubutsu Academy High School"
+      }
+    ],
+    "image": "characters/shikkui-makabe.png"
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Itejiro_Toteki",
+    "name": "Itejiro Toteki",
+    "kanji": "投擲射手次郎",
+    "aliases": ["Boomerang Man"],
+    "quirks": [
+      {
+        "name": "Boomerang"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Ketsubutsu Academy High School"
+      }
+    ],
+    "image": "characters/itejiro-toteki.png"
+  },
+  // Shiketsu High School
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Nagamasa_Mora",
+    "name": "Nagamasa Mora",
+    "kanji": "毛原長昌",
+    "image": "characters/nagamasa-mora.png",
+    "aliases": ["Chewyee"],
+    "quirks": [
+      {
+        "name": "Extend-o-Hair"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Shiketsu High School"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Camie_Utsushimi",
+    "name": "Camie Utsushimi",
+    "kanji": "現見ケミィ",
+    "aliases": ["Illus-o-Camie"],
+    "quirks": [
+      {
+        "name": "Glamour"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Shiketsu High School",
+        "note": "Formerly"
+      }
+    ],
+    "image": "characters/camie-utsushimi.png"
+  },
+  // Isamu Academy High School
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Kashiko_Sekigai",
+    "name": "Kashiko Sekigai",
+    "kanji": "赤外可視子",
+    "image": "characters/kashiko-sekigai.png",
+    "aliases": ["Sensor Girl"],
+    "quirks": [
+      {
+        "name": "Chart"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Isamu Academy High School"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Romero_Fujimi",
+    "name": "Romero Fujimi",
+    "kanji": "藤見露召呂",
+    "image": "characters/romero-fujimi.png",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Zombie Virus"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Isamu Academy High School"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Dadan_Tadan",
+    "name": "Dadan Tadan",
+    "kanji": "多弾打弾",
+    "image": "characters/dadan-tadan.png",
+    "aliases": ["Lucky Strike"],
+    "quirks": [
+      {
+        "name": "Flash Bang Sweat"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Isamu Academy High School"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Habuko_Mongoose",
+    "name": "Habuko Mongoose",
+    "kanji": "万偶数羽生子",
+    "image": "characters/habuko-mongoose.png",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Enfeeble"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Salty Banks Middle School",
+        "note": "Formerly"
+      },
+      {
+        "name": "Isamu Academy High School"
+      }
+    ]
+  },
+  // Seiai Academy
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Saiko_Intelli",
+    "name": "Saiko Intelli",
+    "kanji": "印照才子",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "IQ"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Seiai Academy"
+      }
+    ],
+    "image": "characters/saiko-intelli.png"
+  },
+  // Pro Heroes
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Tsunagu_Hakamada",
+    "name": "Tsunagu Hakamada",
+    "kanji": "袴田維",
+    "image": "characters/tsunagu-hakamada.png",
+    "aliases": ["Fiber Hero: Best Jeanist"],
+    "quirks": [
+      {
+        "name": "Fiber Master"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Genius Office"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Death_Arms",
+    "name": "Death Arms",
+    "kanji": "デステゴロ",
+    "aliases": ["Punching Hero: Death Arms"],
+    "quirks": [
+      {
+        "name": "Unnamed Arm Strength Quirk"
+      }
+    ],
+    "image": "characters/death-arms.png",
+    "affiliations": []
+  },
+  {
+    "name": "Taishiro Toyomitsu",
+    "kanji": "豊満太志郎",
+    "url": "https://myheroacademia.fandom.com/wiki/Fat_Gum",
+    "image": "characters/taishiro-toyomitsu_QHKTD0f.png",
+    "quirks": [
+      {
+        "name": "Fat Absorption"
+      }
+    ],
+    "affiliations": [],
+    "aliases": [
+      {
+        "name": "BMI Hero: Fat Gum"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Inasa_Yoarashi",
+    "name": "Inasa Yoarashi",
+    "kanji": "夜嵐イナサ",
+    "image": "characters/inasa-yoarashi.png",
+    "aliases": ["Gale Force"],
+    "quirks": [
+      {
+        "name": "Whirlwind"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Shiketsu High School"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Kugo_Sakamata",
+    "name": "Kugo Sakamata",
+    "kanji": "逆俣空悟",
+    "image": "characters/kugo-sakamata.png",
+    "aliases": ["Aqua Hero: Gang Orca"],
+    "quirks": [
+      {
+        "name": "Orcinus"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Yo_Shindo",
+    "name": "Yo Shindo",
+    "kanji": "真堂揺",
+    "image": "characters/yo-shindo.png",
+    "aliases": ["Grand", "Gurando"],
+    "quirks": [
+      {
+        "name": "Vibrate"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Ketsubutsu Academy High School"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Tensei_Ida",
+    "name": "Tensei Ida",
+    "kanji": "飯田天晴",
+    "image": "characters/tensei-ida.png",
+    "aliases": ["Turbo Hero: Ingenium"],
+    "quirks": [
+      {
+        "name": "Engine"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Ida Family"
+      },
+      {
+        "name": "Team Idaten"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Shinji_Nishiya",
+    "name": "Shinji Nishiya",
+    "kanji": "西屋森児",
+    "image": "characters/shinji-nishiya.png",
+    "aliases": ["Wood Hero: Kamui Woods"],
+    "quirks": [
+      {
+        "name": "Arbor"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Rumi_Usagiyama",
+    "name": "Rumi Usagiyama",
+    "kanji": "兎山ルミ",
+    "image": "characters/rumi-usagiyama.png",
+    "aliases": ["Rabbit Hero: Mirko", "Tiger Bunny"],
+    "quirks": [
+      {
+        "name": "Rabbit"
+      },
+      {
+        "name": "5"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Underground Masquerade",
+        "note": "Formerly"
+      }
+    ]
+  },
+  {
+    "name": "Yu Takeyama",
+    "kanji": "岳山優",
+    "url": "https://myheroacademia.fandom.com/wiki/Yu_Takeyama",
+    "image": "characters/yu-takeyama_cjauXk3.png",
+    "quirks": [
+      {
+        "name": "Gigantification"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Mt. Agency",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Mountain Hero: Mt. Lady"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Ryuko_Tatsuma",
+    "name": "Ryuko Tatsuma",
+    "kanji": "竜間龍子",
+    "image": "characters/ryuko-tatsuma.png",
+    "aliases": ["Dragoon Hero \"Ryukyu\""],
+    "quirks": [
+      {
+        "name": "Dragon"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "name": "Seiji Shishikura",
+    "kanji": "肉倉精児",
+    "url": "https://myheroacademia.fandom.com/wiki/Seiji_Shishikura",
+    "image": "characters/seiji-shishikura_zhffWh3.png",
+    "quirks": [
+      {
+        "name": "Meatball"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Shiketsu High School",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Shishikross"
+      },
+      {
+        "name": "Shishikurosu"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Susugu_Mitarai",
+    "name": "Susugu Mitarai",
+    "kanji": "御手洗濯",
+    "image": "characters/susugu-mitarai.png",
+    "aliases": ["Laundry Hero: Wash"],
+    "quirks": [
+      {
+        "name": "Clean Bubbler"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Backdraft",
+    "name": "Backdraft",
+    "kanji": "バックドラフト",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Water Pump"
+      },
+      {
+        "name": "1"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Musutafu Fire Department"
+      }
+    ],
+    "image": "characters/backdraft.png"
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Juzo_Moashi",
+    "name": "Juzo Moashi",
+    "kanji": "百足従造",
+    "image": "characters/juzo-moashi.png",
+    "aliases": ["Centipeder"],
+    "quirks": [
+      {
+        "name": "Centipede"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Nighteye Agency"
+      },
+      {
+        "name": "(Current Leader)"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Fourth_Kind",
+    "name": "Fourth Kind",
+    "kanji": "フォースカインド",
+    "aliases": ["Chivalrous Hero: Fourth Kind"],
+    "quirks": [
+      {
+        "name": "Quad Arms"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Government"
+      }
+    ],
+    "image": "characters/fourth-kind.png"
+  },
+  {
+    "name": "Gunhead",
+    "kanji": "",
+    "url": "https://myheroacademia.fandom.com/wiki/Gunhead",
+    "image": "characters/gunhead_VnPdnUc.png",
+    "quirks": [
+      {
+        "name": "Gatling"
+      }
+    ],
+    "affiliations": [],
+    "aliases": [
+      {
+        "name": "Battle Hero: Gunhead"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Kesagiri_Man",
+    "name": "Kesagiri Man",
+    "kanji": "ケサギリマン",
+    "image": "characters/kesagiri-man.png",
+    "aliases": [],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Shino_Sosaki",
+    "name": "Shino Sosaki",
+    "kanji": "送崎信乃",
+    "image": "characters/shino-sosaki.png",
+    "aliases": ["Mandalay", "Mandarei"],
+    "quirks": [
+      {
+        "name": "Telepath"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Wild, Wild Pussycats"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Masaki_Mizushima",
+    "name": "Masaki Mizushima",
+    "kanji": "水島正規",
+    "image": "characters/masaki-mizushima.png",
+    "aliases": ["Normal Hero: Manual"],
+    "quirks": [
+      {
+        "name": "Unnamed Water Quirk"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Mr._Brave",
+    "name": "Mr. Brave",
+    "kanji": "ブレイブ",
+    "image": "characters/mr-brave.png",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Hair-Raiser"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Emi_Fukukado",
+    "name": "Emi Fukukado",
+    "kanji": "福門笑",
+    "image": "characters/emi-fukukado.png",
+    "aliases": ["Smile Hero: Ms. Joke"],
+    "quirks": [
+      {
+        "name": "Outburst"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Ketsubutsu Academy High School"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Ryuko_Tsuchikawa",
+    "name": "Ryuko Tsuchikawa",
+    "kanji": "土川流子",
+    "image": "characters/ryuko-tsuchikawa.png",
+    "aliases": ["Pixie-Bob"],
+    "quirks": [
+      {
+        "name": "Earth Flow"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Wild, Wild Pussycats"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Ken_Takagi",
+    "name": "Ken Takagi",
+    "kanji": "高木鍵",
+    "image": "characters/ken-takagi.png",
+    "aliases": ["Lock Hero \"Rock Lock\""],
+    "quirks": [
+      {
+        "name": "Lock Down"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Selkie",
+    "name": "Selkie",
+    "kanji": "セルキー",
+    "aliases": ["Sea Rescue Hero: Selkie"],
+    "quirks": [
+      {
+        "name": "Spotted Seal"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Oki Mariner Crew"
+      }
+    ],
+    "image": "characters/selkie.png"
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Shishido",
+    "name": "Shishido",
+    "kanji": "シシド",
+    "aliases": ["Lion Hero: Shishido"],
+    "quirks": [
+      {
+        "name": "Lion"
+      }
+    ],
+    "image": "characters/shishido.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Slugger",
+    "name": "Slugger",
+    "kanji": "ベースボールヒーロー・スラッガー",
+    "image": "characters/slugger.png",
+    "aliases": ["Baseball Hero: \"Slugger\""],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/The_Fly",
+    "name": "The Fly",
+    "kanji": "ザ・フライ",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Unnamed Fly Quirk"
+      }
+    ],
+    "image": "characters/the-fly.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Toy-Toy",
+    "name": "Toy-Toy",
+    "kanji": "トイトイ",
+    "aliases": [],
+    "image": "characters/toy-toy.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Uwabami",
+    "name": "Uwabami",
+    "aliases": ["Snake Hero: Uwabami"],
+    "quirks": [
+      {
+        "name": "Serpentress"
+      }
+    ],
+    "image": "characters/uwabami.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Christopher_Skyline",
+    "name": "Christopher Skyline",
+    "kanji": "クリストファー・スカイライン",
+    "aliases": ["Captain Celebrity", "Kyaputen Sereburiti"],
+    "quirks": [
+      {
+        "name": "Flight"
+      }
+    ],
+    "image": "characters/christopher-skyline.png",
+    "affiliations": []
+  },
+  {
+    "name": "Big Red Dot",
+    "kanji": "ビッグ・レッド・ドット",
+    "url": "https://myheroacademia.fandom.com/wiki/Big_Red_Dot",
+    "image": "characters/big-red-dot_OEFzXIL.png",
+    "quirks": [
+      {
+        "name": "Tidal Bore"
+      }
+    ],
+    "affiliations": [],
+    "aliases": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Clair_Voyance",
+    "name": "Clair Voyance",
+    "kanji": "クレア・ボヤンス",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Voyance"
+      }
+    ],
+    "image": "characters/clair-voyance.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Cow_Lady",
+    "name": "Cow Lady",
+    "kanji": "カウレディ",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Cow"
+      }
+    ],
+    "image": "characters/cow-lady.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Elecplant",
+    "name": "Elecplant",
+    "kanji": "エレクプラント",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Electricity Generation"
+      }
+    ],
+    "image": "characters/elecplant.png",
+    "affiliations": []
+  },
+  {
+    "name": "Godzillo",
+    "kanji": "ゴジロ",
+    "url": "https://myheroacademia.fandom.com/wiki/Godzillo",
+    "image": "characters/godzillo_4u013CJ.png",
+    "quirks": [
+      {
+        "name": "Toho"
+      }
+    ],
+    "affiliations": [],
+    "aliases": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Mr._Plastic",
+    "name": "Mr. Plastic",
+    "kanji": "プラスティック",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Plastic Transformation"
+      }
+    ],
+    "image": "characters/mr-plastic.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Nyikang",
+    "name": "Nyikang",
+    "kanji": "ニイカング",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Spirit Possession"
+      },
+      {
+        "name": "1"
+      }
+    ],
+    "image": "characters/nyikang.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Pankration",
+    "name": "Pankration",
+    "kanji": "パンクラチオン",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Power"
+      }
+    ],
+    "image": "characters/pankration.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Salaam",
+    "name": "Salaam",
+    "kanji": "サラーム",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Papyrus"
+      }
+    ],
+    "image": "characters/salaam.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Takahiro",
+    "name": "Takahiro",
+    "kanji": "タカヒロ",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Eagle"
+      }
+    ],
+    "image": "characters/takahiro.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Tomoko_Shiretoko",
+    "name": "Tomoko Shiretoko",
+    "kanji": "知床知子",
+    "image": "characters/tomoko-shiretoko.png",
+    "aliases": ["Ragdoll"],
+    "quirks": [
+      {
+        "name": "Search"
+      },
+      {
+        "name": "Quirkless"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Wild, Wild Pussycats"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Yawara_Chatora",
+    "name": "Yawara Chatora",
+    "kanji": "茶虎柔",
+    "image": "characters/yawara-chatora.png",
+    "aliases": ["Tiger"],
+    "quirks": [
+      {
+        "name": "Pliabody"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Wild, Wild Pussycats"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Onemu_Shinya",
+    "name": "Onemu Shinya",
+    "kanji": "深夜おねむ",
+    "aliases": [],
+    "image": "characters/onemu-shinya.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Bigshot",
+    "name": "Bigshot",
+    "kanji": "ビッグショット",
+    "aliases": [],
+    "image": "characters/bigshot.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Watchbird",
+    "name": "Watchbird",
+    "kanji": "ウォッチバード",
+    "aliases": [],
+    "affiliations": [
+      {
+        "name": "Team Idaten"
+      }
+    ],
+    "image": "characters/watchbird.png"
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Keigo_Takami",
+    "name": "Keigo Takami",
+    "kanji": "鷹見啓悟",
+    "image": "characters/keigo-takami.png",
+    "aliases": ["Wing Hero: Hawks"],
+    "quirks": [
+      {
+        "name": "Fierce Wings"
+      },
+      {
+        "name": "Quirkless"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Hero Public Safety Commission"
+      },
+      {
+        "name": "(President)"
+      },
+      {
+        "name": "Paranormal Liberation Front"
+      },
+      {
+        "name": "(Double agent)",
+        "note": "Formerly"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Cathleen_Bate",
+    "name": "Cathleen Bate",
+    "kanji": "キャスリーン・ベイト",
+    "image": "characters/cathleen-bate.png",
+    "aliases": ["Star and Stripe", "Cassie"],
+    "quirks": [
+      {
+        "name": "New Order"
+      },
+      {
+        "name": "Quirkless"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Yoroi_Musha",
+    "name": "Yoroi Musha",
+    "image": "characters/yoroi-musha.png",
+    "aliases": ["Equipped Hero: Yoroi Musha"],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Gyges",
+    "name": "Gyges",
+    "kanji": "ギュゲス",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Unknown Multiple Arm Quirk"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Tartarus"
+      }
+    ],
+    "image": "characters/gyges.png"
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Briareos",
+    "name": "Briareos",
+    "kanji": "ブリアレオス",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Unknown Multiple Arm Quirk"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Tartarus"
+      }
+    ],
+    "image": "characters/briareos.png"
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Crust",
+    "name": "Crust",
+    "kanji": "クラスト",
+    "aliases": ["Shield Hero: Crust"],
+    "quirks": [
+      {
+        "name": "Shield"
+      }
+    ],
+    "image": "characters/crust.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Enma_Kannagi",
+    "name": "Enma Kannagi",
+    "kanji": "巫円真",
+    "image": "characters/enma-kannagi.png",
+    "aliases": ["Magic Hero: Majestic"],
+    "quirks": [
+      {
+        "name": "Magic"
+      },
+      {
+        "name": "1"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Master_Driller",
+    "name": "Master Driller",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Unnamed Drill Quirk"
+      }
+    ],
+    "image": "characters/master-driller.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Funkman",
+    "name": "Funkman",
+    "kanji": "ファンクマン",
+    "aliases": [],
+    "image": "characters/funkman.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Native",
+    "name": "Native",
+    "kanji": "ネイティヴ",
+    "aliases": [],
+    "image": "characters/native.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/X-Less",
+    "name": "X-Less",
+    "kanji": "眼銃ヒーローエクスレス",
+    "image": "characters/x-less.png",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Laser"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "name": "Eel Boy",
+    "kanji": "イールボーイ",
+    "url": "https://myheroacademia.fandom.com/wiki/Eel_Boy",
+    "image": "characters/eel-boy_LsghnTo.png",
+    "quirks": [
+      {
+        "name": "Unnamed Eel Quirk"
+      }
+    ],
+    "affiliations": [],
+    "aliases": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Tatsuyuki_Tokoname",
+    "name": "Tatsuyuki Tokoname",
+    "kanji": "常滑達行",
+    "image": "characters/tatsuyuki-tokoname.png",
+    "aliases": ["Slidin' Go"],
+    "quirks": [
+      {
+        "name": "Unnamed Sliding Quirk"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Meta Liberation Army",
+        "note": "Formerly"
+      },
+      {
+        "name": "Paranormal Liberation Front"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Mirai_Sasaki",
+    "name": "Mirai Sasaki",
+    "kanji": "佐々木未来",
+    "image": "characters/mirai-sasaki.png",
+    "aliases": ["Sir Nighteye"],
+    "quirks": [
+      {
+        "name": "Foresight"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Sajin_Higawara",
+    "name": "Sajin Higawara",
+    "kanji": "日河原砂塵",
+    "image": "characters/sajin-higawara.png",
+    "aliases": ["Sand Hero: Snatch"],
+    "quirks": [
+      {
+        "name": "Sandstorm"
+      }
+    ],
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Number_6",
+    "name": "Number 6",
+    "image": "characters/number-6.png",
+    "aliases": [
+      "Rokuro Nomura",
+      "Scarred Man",
+      "Kizugao no Otoko",
+      "Rokku",
+      "High-Speed Hero II: O'Clock II",
+      "Overclock"
+    ],
+    "quirks": [
+      {
+        "name": "Overclock"
+      },
+      {
+        "name": "Self-Detonation"
+      },
+      {
+        "name": "Radio Waves"
+      },
+      {
+        "name": "Regeneration"
+      },
+      {
+        "name": "Bombify"
+      },
+      {
+        "name": "3"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Villain Factory"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Iwao_Oguro",
+    "name": "Iwao Oguro",
+    "kanji": "雄黒巌",
+    "image": "characters/iwao-oguro.png",
+    "aliases": [
+      "Knuckleduster",
+      "Master",
+      "Janitor of the Fist",
+      "Grandpa Fist",
+      "Takeshi Kuroiwa",
+      "Kuroiwa Takeshi",
+      "High-Speed Hero: O'Clock",
+      "Hyper Quadfist",
+      "The Ripper"
+    ],
+    "quirks": [
+      {
+        "name": "Overclock"
+      },
+      {
+        "name": "Quirkless"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Naruhata Vigilantes",
+        "note": "Formerly"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Kaina_Tsutsumi",
+    "name": "Kaina Tsutsumi",
+    "kanji": "筒美火伊那",
+    "image": "characters/kaina-tsutsumi.png",
+    "aliases": ["Lady Nagant", "Redi Nagan"],
+    "quirks": [
+      {
+        "name": "Rifle"
+      },
+      {
+        "name": "Air Walk"
+      },
+      {
+        "name": "Unnamed Self-Destruct Quirk"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Hero Public Safety Commission",
+        "note": "Formerly"
+      },
+      {
+        "name": "Paranormal Liberation Front",
+        "note": "Formerly"
+      }
+    ]
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Crimson_Riot",
+    "name": "Crimson Riot",
+    "kanji": "紅頼雄斗",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Unnamed Hardening Quirk"
+      }
+    ],
+    "image": "characters/crimson-riot.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Water_Hose",
+    "name": "Water Hose",
+    "kanji": "ウォーターホース",
+    "aliases": [],
+    "image": "characters/water-hose.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Nana_Shimura",
+    "name": "Nana Shimura",
+    "kanji": "志村菜奈",
+    "aliases": [],
+    "quirks": [
+      {
+        "name": "Float"
+      },
+      {
+        "name": "One For All"
+      }
+    ],
+    "image": "characters/nana-shimura.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/En_Tayutai",
+    "name": "En Tayutai",
+    "kanji": "揺蕩井煙",
+    "aliases": ["Smoke-Eater"],
+    "quirks": [
+      {
+        "name": "Smokescreen"
+      },
+      {
+        "name": "2"
+      },
+      {
+        "name": "One For All"
+      }
+    ],
+    "image": "characters/en-tayutai.png",
+    "affiliations": []
+  },
+  {
+    "url": "https://myheroacademia.fandom.com/wiki/Daigoro_Banjo",
+    "name": "Daigoro Banjo",
+    "kanji": "万縄大悟郎",
+    "aliases": ["Lariat", "Rariatto"],
+    "quirks": [
+      {
+        "name": "Blackwhip"
+      },
+      {
+        "name": "One For All"
+      }
+    ],
+    "image": "characters/daigoro-banjo.png",
+    "affiliations": []
+  },
+  // Sidekicks
+  {
+    "name": "Moe Kamiji",
+    "kanji": "上路萌",
+    "url": "https://myheroacademia.fandom.com/wiki/Burnin",
+    "image": "characters/moe-kamiji_Z6yjfFK.png",
+    "quirks": [
+      {
+        "name": "Blazing Hair"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Endeavor Agency",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Burnin"
+      }
+    ]
+  },
+  // Police
+  {
+    "name": "Gori",
+    "kanji": "ゴリ",
+    "url": "https://myheroacademia.fandom.com/wiki/Gori",
+    "image": "characters/gori_OOH4VJP.png",
+    "quirks": [
+      {
+        "name": "Unnamed Gorilla Quirk"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Police Force",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  // Civilians
+  {
+    "name": "Fuyumi Todoroki",
+    "kanji": "轟冬美",
+    "url": "https://myheroacademia.fandom.com/wiki/Fuyumi_Todoroki",
+    "image": "characters/fuyumi-todoroki_JfUMVAr.png",
+    "quirks": [
+      {
+        "name": "Frost"
+      }
+    ],
+    "affiliations": [],
+    "aliases": []
+  },
+  // ***** VILLAINS *****
+  // Humarise
+  {
+    "name": "Flect Turn",
+    "kanji": "フレクト・ターン",
+    "url": "https://myheroacademia.fandom.com/wiki/Flect_Turn",
+    "image": "characters/flect-turn_zUiTZPW.png",
+    "quirks": [
+      {
+        "name": "Reflect"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Humarise",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  // League of Villains
+  {
+    "name": "Mustard",
+    "kanji": "マスタード",
+    "url": "https://myheroacademia.fandom.com/wiki/Mustard",
+    "image": "characters/mustard_bu2ybz4.png",
+    "quirks": [
+      {
+        "name": "Gas"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "League of Villains",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Moonfish",
+    "kanji": "ムーンフィッシュ",
+    "url": "https://myheroacademia.fandom.com/wiki/Moonfish",
+    "image": "characters/moonfish_VDBZbGB.png",
+    "quirks": [
+      {
+        "name": "Blade-Tooth"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "League of Villains",
+        "note": "Formerly"
+      },
+      {
+        "name": "Paranormal Liberation Front",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "The Death Row Inmate: Moonfish"
+      }
+    ]
+  },
+  {
+    "name": "Kagero Okuta",
+    "kanji": "憶田影朧",
+    "url": "https://myheroacademia.fandom.com/wiki/Giran",
+    "image": "characters/kagero-okuta_TMcsVJV.png",
+    "quirks": [
+      {
+        "name": "Muddied"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "League of Villains",
+        "note": "Formerly"
+      },
+      {
+        "name": "Paranormal Liberation Front",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Giran"
+      }
+    ]
+  },
+  {
+    "name": "Gigantomachia",
+    "kanji": "ギガントマキア",
+    "url": "https://myheroacademia.fandom.com/wiki/Gigantomachia",
+    "image": "characters/gigantomachia_JwPeZVQ.png",
+    "quirks": [
+      {
+        "name": "Endurance"
+      },
+      {
+        "name": "Pain Blocker"
+      },
+      {
+        "name": "Gigantification"
+      },
+      {
+        "name": "Dog"
+      },
+      {
+        "name": "Energy Saver"
+      },
+      {
+        "name": "Fierce Gains"
+      },
+      {
+        "name": "Mole"
+      },
+      {
+        "name": "2"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "League of Villains",
+        "note": "Formerly"
+      },
+      {
+        "name": "Paranormal Liberation Front",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Machia"
+      },
+      {
+        "name": "Makia"
+      }
+    ]
+  },
+  {
+    "name": "Goto Imasuji",
+    "kanji": "今筋強斗",
+    "url": "https://myheroacademia.fandom.com/wiki/Goto_Imasuji",
+    "image": "characters/goto-imasuji_wcN1YdU.png",
+    "quirks": [
+      {
+        "name": "Muscle Augmentation"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "League of Villains",
+        "note": "Formerly"
+      }
+    ],
+    "aliases": [
+      {
+        "name": "The Carnal Murderer: Muscular"
+      }
+    ]
+  },
+  // Meta Liberation Army
+  {
+    "name": "Rikiya Yotsubashi",
+    "kanji": "四ツ橋力也",
+    "url": "https://myheroacademia.fandom.com/wiki/Rikiya_Yotsubashi",
+    "image": "characters/rikiya-yotsubashi_eQE3WOA.png",
+    "quirks": [
+      {
+        "name": "Stress"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Meta Liberation Army",
+        "note": "Formerly"
+      },
+      {
+        "name": "Paranormal Liberation Front",
+        "note": ""
+      },
+      {
+        "name": "Detnerat",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Re-Destro"
+      },
+      {
+        "name": "Ri-Desutoro"
+      }
+    ]
+  },
+  {
+    "name": "Chitose Kizuki",
+    "kanji": "気月置歳",
+    "url": "https://myheroacademia.fandom.com/wiki/Chitose_Kizuki",
+    "image": "characters/chitose-kizuki_SumLzly.png",
+    "quirks": [
+      {
+        "name": "Landmine"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Meta Liberation Army",
+        "note": ""
+      },
+      {
+        "name": "Shoowaysha Publishing",
+        "note": ""
+      }
+    ],
+    "aliases": [
+      {
+        "name": "Curious"
+      },
+      {
+        "name": "Kyuriosu"
+      }
+    ]
+  },
+  // Shie Hassaikai, 8 Bullets
+  {
+    "name": "Soramitsu Tabe",
+    "kanji": "多部空満",
+    "url": "https://myheroacademia.fandom.com/wiki/Soramitsu_Tabe",
+    "image": "characters/soramitsu-tabe_TBMOzMU.png",
+    "quirks": [
+      {
+        "name": "Food"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Shie Hassaikai",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Toya Setsuno",
+    "kanji": "窃野トウヤ",
+    "url": "https://myheroacademia.fandom.com/wiki/Toya_Setsuno",
+    "image": "characters/toya-setsuno_LSZL2lq.png",
+    "quirks": [
+      {
+        "name": "Larceny"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "Shie Hassaikai",
+        "note": ""
+      }
+    ],
+    "aliases": []
+  }
+]

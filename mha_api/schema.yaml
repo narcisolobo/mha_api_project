@@ -6,7 +6,16 @@ paths:
   /api/characters/:
     get:
       operationId: characters_list
-      description: API view that returns a list of all characters.
+      description: Retrieve a list of My Hero Academia characters. You can filter
+        results by name using the `search` query parameter, e.g. `?search=Midoriya`.
+      summary: List all characters
+      parameters:
+      - name: search
+        required: false
+        in: query
+        description: A search term.
+        schema:
+          type: string
       tags:
       - characters
       security:
@@ -85,7 +94,9 @@ paths:
   /api/characters/{id}/:
     get:
       operationId: characters_retrieve
-      description: API view that retrieves a single character by ID.
+      description: Fetch detailed information for a single character, including quirks,
+        affiliations, and aliases.
+      summary: Retrieve a character by ID
       parameters:
       - in: path
         name: id

@@ -1,15 +1,16 @@
-"""
-Utility functions used by the MHA character scraper. Includes functions for
-parsing quirks, affiliations, aliases, and downloading images.
-"""
-
+import re
 import os
 import requests
-import re
+import json
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, ".."))
 MEDIA_DIR = os.path.join(PROJECT_ROOT, "mha_api", "media", "characters")
+
+"""
+Utility functions used by the MHA character scraper. Includes functions for
+parsing quirks, affiliations, aliases, and downloading images.
+"""
 
 
 def extract_quirks(value):
@@ -156,4 +157,53 @@ def extract_aliases(soup):
             seen.add(alias)
             cleaned.append(alias)
 
+    return cleaned
+
+
+def sort_by_affiliation():
+    json_path = os.path.join(os.path.dirname(__file__), "characters_backup.json")
+    with open(json_path, encoding="utf-8") as f:
+        characters = json.load(f)
+
+        def get_first_affiliation_name(char):
+            affiliations = char.get("affiliations", [])
+            if (
+                affiliations
+                and isinstance(affiliations, list)
+                and "name" in affiliations[0]
+            ):
+                return affiliations[0]["name"]
+            return "zzz_no_affiliation"  # Ensures characters without affiliations go to the bottom
+
+        sorted_characters = sorted(characters, key=get_first_affiliation_name)
+
+        output_path = os.path.join(
+            os.path.dirname(__file__), "characters_sorted_by_affiliation.json"
+        )
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(sorted_characters, f, ensure_ascii=False, indent=2)
+
+        print(
+            "✅ Sorted by first affiliation and saved to characters_sorted_by_affiliation.json"
+        )
+
+
+def clean_character_data(data):
+    """
+    Removes the 'id' field and strips the localhost media URL prefix from image paths.
+    Returns the cleaned list of character dictionaries.
+
+    Args:
+        data (list): List of character dictionaries.
+
+    Returns:
+        list: Cleaned list of character dictionaries.
+    """
+    cleaned = []
+    for char in data:
+        char.pop("id", None)
+        image = char.get("image", "")
+        if image and isinstance(image, str):
+            char["image"] = re.sub(r"^http://localhost:8000/media/", "", image)
+        cleaned.append(char)
     return cleaned
